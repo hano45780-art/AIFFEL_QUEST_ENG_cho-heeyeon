@@ -1,104 +1,97 @@
-# AIFFEL_QUEST_ENG1
+# AIFFEL_Quest_ENG
 
-## 폴더 구조
-
-```text
-AIFFEL_QUEST_ENG1
+```
+.
 ├── 01_Python
-│   └── sub1
-│       ├── Py01
-│       │   └── sub2
-│       ├── Py02
-│       │   └── sub2
-│       ├── Py03
-│       │   └── sub2
-│       ├── Py04
-│       │   └── sub2
-│       └── Py05
-│           └── sub2
+│   ├── Py01
+│   │   └── README.md
+│   ├── Py02
+│   │   └── README.md
+│   ├── Py03
+│   │   └── README.md
+│   ├── Py04
+│   │   └── README.md
+│   └── Py05
+│       └── README.md
 ├── 02_Data_Analysis
-│   └── sub1
-├── 02_Data_Analysis1
-│   └── sub1
-│       ├── DA01
-│       │   └── sub2
-│       └── DA02
-│           └── sub2
+│   ├── DA01
+│   │   └── README.md
+│   └── DA02
+│       └── README.md
 ├── 03_Computer_Vision
-│   └── sub1
-│       ├── CV01
-│       │   └── sub2
-│       └── CV02
-│           └── sub2
+│   ├── CV01
+│   │   └── README.md
+│   └── CV02
+│       └── README.md
 ├── 04_NLP
-│   └── sub1
-│       ├── NLP01
-│       │   └── sub2
-│       └── NLP02
-│           └── sub2
+│   ├── NLP01
+│   │   └── README.md
+│   └── NLP02
+│       └── README.md
 ├── 05_LLM
-│   └── sub1
-│       ├── LLM01
-│       │   └── sub2
-│       ├── LLM02
-│       │   └── sub2
-│       ├── LLM03
-│       │   └── sub2
-│       ├── LLM04
-│       │   └── sub2
-│       ├── LLM05
-│       │   └── sub2
-│       ├── LLM06
-│       │   └── sub2
-│       └── LLM07
-│           └── sub2
+│   ├── LLM01
+│   │   └── README.md
+│   ├── LLM02
+│   │   └── README.md
+│   ├── LLM03
+│   │   └── README.md
+│   ├── LLM04
+│   │   └── README.md
+│   ├── LLM05
+│   │   └── README.md
+│   ├── LLM06
+│   │   └── README.md
+│   └── LLM07
+│       └── README.md
 ├── 06_Deployment
-│   └── sub1
-│       ├── DP01
-│       │   └── sub2
-│       ├── DP02
-│       │   └── sub2
-│       ├── DP03
-│       │   └── sub2
-│       ├── DP04
-│       │   └── sub2
-│       ├── DP05
-│       │   └── sub2
-│       ├── DP06
-│       │   └── sub2
-│       ├── DP07
-│       │   └── sub2
-│       └── DP08
-│           └── sub2
+│   ├── DP01
+│   │   └── README.md
+│   ├── DP02
+│   │   └── README.md
+│   ├── DP03
+│   │   └── README.md
+│   ├── DP04
+│   │   └── README.md
+│   ├── DP05
+│   │   └── README.md
+│   ├── DP06
+│   │   └── README.md
+│   ├── DP07
+│   │   └── README.md
+│   └── DP08
+│       ├── Contents
+│       │   ├── README.md
+│       │   └── sub3
+│       └── Final_Code
+│           ├── README.md
+│           └── sub3
 ├── 07_MLOps
-│   └── sub1
-│       ├── MLOps01
-│       │   └── sub2
-│       ├── MLOps02
-│       │   └── sub2
-│       ├── MLOps03
-│       │   └── sub2
-│       ├── MLOps04
-│       │   └── sub2
-│       ├── MLOps05
-│       │   └── sub2
-│       ├── MLOps06
-│       │   └── sub2
-│       └── MLOps07
-│           └── sub2
+│   ├── MLOps01
+│   │   └── README.md
+│   ├── MLOps02
+│   │   └── README.md
+│   ├── MLOps03
+│   │   └── README.md
+│   ├── MLOps04
+│   │   └── README.md
+│   ├── MLOps05
+│   │   └── README.md
+│   ├── MLOps06
+│   │   └── README.md
+│   └── MLOps07
+│       └── README.md
 ├── Main_Quest
-│   └── sub1
-│       ├── MQ01
-│       │   └── sub2
-│       ├── MQ02
-│       │   └── sub2
-│       ├── MQ03
-│       │   └── sub2
-│       ├── MQ04
-│       │   └── sub2
-│       └── MQ05
-│           └── sub2
+│   ├── MQ01
+│   │   └── README.md
+│   ├── MQ02
+│   │   └── README.md
+│   ├── MQ03
+│   │   └── README.md
+│   ├── MQ04
+│   │   └── README.md
+│   └── MQ05
+│       └── README.md
 └── README.md
 
-95 directories, 1 file
+51 directories, 40 files
 ```
