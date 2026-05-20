@@ -78,13 +78,13 @@ def score_analysis(name):
 
 
 if __name__ == "__main__":
-    # Q1-1
+    print("### Q1-1 회문 판독기")
     target1 = "아만남다다남만아"
     target2 = "아름다운날들부터"
     print(is_palindrome(target1))
     print(is_palindrome(target2))
 
-    # Q1-2
+    print("\n### Q1-2 회문 분류기")
     targets = [
         "기러기",
         "개미",
@@ -99,5 +99,8 @@ if __name__ == "__main__":
     ]
     print(palindrome_classifier(targets))
 
-    # Q2-2
+    print("\n### Q2-1 성적 데이터화")
+    print(scores)
+
+    print("\n### Q2-2 성적 분석기")
     print(score_analysis("설진민"))
